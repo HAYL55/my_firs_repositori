@@ -1,0 +1,15 @@
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\bin\Debug\net6.0\BigOpirations.exe
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\bin\Debug\net6.0\BigOpirations.deps.json
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\bin\Debug\net6.0\BigOpirations.runtimeconfig.json
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\bin\Debug\net6.0\BigOpirations.dll
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\bin\Debug\net6.0\BigOpirations.pdb
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.csproj.AssemblyReference.cache
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.AssemblyInfoInputs.cache
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.AssemblyInfo.cs
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.csproj.CoreCompileInputs.cache
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.dll
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\refint\BigOpirations.dll
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.pdb
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\BigOpirations.genruntimeconfig.cache
+C:\Users\Привет\source\repos\BigOpirations\BigOpirations\obj\Debug\net6.0\ref\BigOpirations.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigOpirations", "BigOpirations\BigOpirations.csproj", "{22C52B30-A40E-494D-BEF1-580647045A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C52B30-A40E-494D-BEF1-580647045A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C52B30-A40E-494D-BEF1-580647045A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C52B30-A40E-494D-BEF1-580647045A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C52B30-A40E-494D-BEF1-580647045A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811B0B46-7764-4CA3-82A0-72DCF3665E59}
+	EndGlobalSection
+EndGlobal
